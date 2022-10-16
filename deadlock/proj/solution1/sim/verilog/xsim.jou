@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# xsim v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Sun Oct 16 19:18:01 2022
+# Process ID: 17712
+# Current directory: D:/Documents/HLS/labA/03-dataflow_debug_and_optimization/reference_files/deadlock/proj/solution1/sim/verilog
+# Command line: xsim.exe -mode tcl -source {xsim.dir/example/xsim_script.tcl}
+# Log file: D:/Documents/HLS/labA/03-dataflow_debug_and_optimization/reference_files/deadlock/proj/solution1/sim/verilog/xsim.log
+# Journal file: D:/Documents/HLS/labA/03-dataflow_debug_and_optimization/reference_files/deadlock/proj/solution1/sim/verilog\xsim.jou
+# Running On: LAPTOP-P5G6NA7F, OS: Windows, CPU Frequency: 2304 MHz, CPU Physical cores: 8, Host memory: 16931 MB
+#-----------------------------------------------------------
+source xsim.dir/example/xsim_script.tcl
+source example.tcl
